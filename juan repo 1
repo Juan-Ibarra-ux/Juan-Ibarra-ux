@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <header>
+        <nav>https://github.com/Juan-Ibarra-ux/Juan-Ibarra-ux/new/main
+    </header>
+    <article>
+        <!-- Audio -->
+        <audio controls src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"></audio>
+
+        <!-- embed -->
+        <embed src="http://www.africau.edu/images/default/sample.pdf" type="application/pdf">
+
+        <!-- iframe -->
+        <iframe src="https://www.youtube.com/embed/lc5JJTQa4r8" frameborder="0"></iframe>
+
+        <!-- Video -->
+        <video src="http://v2v.cc/~j/theora_testsuite/320x240.ogg"></video>
+
+        <!-- Imagen -->
+        <img src="https://images.pexels.com/photos/8941581/pexels-photo-8941581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=200" alt="Futbol">
+    </article>
+    <footer>
+        <address>
+        </address>https://github.com/Juan-Ibarra-ux/Juan-Ibarra-ux/new/main
+    </footer>
+</body>
+</html>
