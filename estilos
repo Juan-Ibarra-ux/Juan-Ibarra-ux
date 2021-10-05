@@ -1,0 +1,23 @@
+/*h1 {
+    border: 2px solid red; 
+    border-radius: 5px;
+} */
+
+/* * {
+    text-decoration: underline;
+    font-size: 89px;
+} */
+
+/* h1 {
+    background-color: darkolivegreen;
+} */
+
+
+ /* #p-especial{
+    border: 5px dotted peru;
+} */
+
+h1.borde-redondeado {
+    border: 2px dashed blue;
+    border-radius: 10px;
+}
