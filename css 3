@@ -1,0 +1,56 @@
+/* p::first-letter {
+    font-size: 80px;
+}
+
+p::first-line {
+    background-color: gray;
+}
+
+article p {
+    color: chocolate;
+}
+
+p {
+    color: blue !important;
+}*/
+
+/* h1 {
+    width: 200px;
+    height: 200px;
+    background-color: darkred;
+    color: white;
+    padding: 20px 50px;
+    margin: 2px 100px;
+    border-left: 10px groove white;
+    box-sizing: border-box;
+}
+
+p strong {
+    display: inline-block;
+    background-color: teal;
+    width: 100px;
+    height: 100px;
+}
+
+a {
+    display: block;
+} */
+
+/* h1 {
+    background-color: blue;
+    font-size: 50px;
+    padding: 0.5em;
+}*/
+
+#belleza {
+    font-size: 300%;
+    background-color: #FFB319;
+    height: 50%;
+    width: 75%;
+}
+
+#nosotros {
+    background-color: #FFE194;
+    height: 100vh;
+    width: 75vw;
+}
